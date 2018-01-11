@@ -1,0 +1,19 @@
+.node {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+.name
+{
+    stroke: #999;
+    stroke-width: 0px;
+}
+
+.link1 {
+    stroke: #999;
+    stroke-opacity: .6;
+}
+.link2 {
+    stroke: #999;
+    stroke-opacity: .6;
+}
+
